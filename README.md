@@ -1,6 +1,9 @@
-# Kanban Board
-Simple Flask Kanban Board made using Flask
+# Danyal's Kanban Board
+Kanban Board made using Flask
 
+## Features
+![Dashboard]
+(https://github.com/danyalnaeem/Kanban-Board/blob/master/snapshot/kanbanimage.png)
 
 ## How to run
 Go to the root directory and install the dependencies first using
