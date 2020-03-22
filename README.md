@@ -2,8 +2,14 @@
 Kanban Board made using Flask
 
 ## Features
-![Dashboard]
-(https://github.com/danyalnaeem/Kanban-Board/blob/master/snapshot/kanbanimage.png)
+
+- Add Tasks to the To Do board by entering title and description of the task
+- Click Start Task to move it to the In Progress board
+- Click Done to move it to the Done board
+- Finally, remove the task from the Dobe board by pressing Remove
+
+
+
 
 ## How to run
 Go to the root directory and install the dependencies first using
