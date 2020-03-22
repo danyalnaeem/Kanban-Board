@@ -8,7 +8,7 @@ Kanban Board made using Flask
 - Click Done to move it to the Done board
 - Finally, remove the task from the Dobe board by pressing Remove
 
-
+![kanbanimage] (/snapshot/kanbanimage.png)
 
 
 ## How to run
