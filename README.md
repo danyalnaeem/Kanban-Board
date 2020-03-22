@@ -16,9 +16,13 @@ Go to the root directory and install the dependencies first using
 
     $ pip install -r requirements.txt
     
+Set up the virtual environment
+
+    $ virtualenv venv
+
 Simply go to the root directory and run
 
-    $ python app.py
+    $ python3 app.py
 
 Access the app on http://127.0.0.1:5000/
 
